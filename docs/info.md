@@ -20,3 +20,31 @@ You test it by running all possible inputs and checking if the outputs match the
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
 
 NONE
+
+## Pinout
+
+### Inputs
+
+| Pin     | Name |
+|---------|------|
+| ui[0]   | x    |
+| ui[1]   | y    |
+| ui[2]   |      |
+| ui[3]   |      |
+| ui[4]   |      |
+| ui[5]   |      |
+| ui[6]   |      |
+| ui[7]   |      |
+
+### Outputs
+
+| Pin     | Name |
+|---------|------|
+| uo[0]   | S    |
+| uo[1]   | C    |
+| uo[2]   |      |
+| uo[3]   |      |
+| uo[4]   |      |
+| uo[5]   |      |
+| uo[6]   |      |
+| uo[7]   |      |
